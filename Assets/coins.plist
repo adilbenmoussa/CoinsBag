@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>symbol</key>
+		<string>BTC</string>
+		<key>name</key>
+		<string>Bitcoin</string>
+		<key>id</key>
+		<string>bitcoin</string>
+	</dict>
+	<dict>
+		<key>symbol</key>
+		<string>ETH</string>
+		<key>name</key>
+		<string>Ethereum</string>
+		<key>id</key>
+		<string>ethereum</string>
+	</dict>
+	<dict>
+		<key>symbol</key>
+		<string>BCH</string>
+		<key>name</key>
+		<string>Bitcoin Cash</string>
+		<key>id</key>
+		<string>bitcoin-cash</string>
+	</dict>
+	<dict>
+		<key>symbol</key>
+		<string>LTC</string>
+		<key>name</key>
+		<string>Litecoin</string>
+		<key>id</key>
+		<string>litecoin</string>
+	</dict>
+	<dict>
+		<key>symbol</key>
+		<string>XVG</string>
+		<key>name</key>
+		<string>Verge</string>
+		<key>id</key>
+		<string>verge</string>
+	</dict>
+</array>
+</plist>

@@ -33,8 +33,7 @@ If you like it, do it:
 ![CoinsBag-Screenshot](https://github.com/adilbenmoussa/CoinsBag/blob/master/screenshots/screenshot4.png?raw=true)
 
 ## Contacs
-adil.benmoussa@gmail.com
-https://twitter.com/adilbenmoussa
+adil.benmoussa@gmail.com | https://twitter.com/adilbenmoussa
 
 ## Used Libraries And Icons
 This app uses and extends the following libraries and icons:
