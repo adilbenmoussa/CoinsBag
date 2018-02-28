@@ -27,10 +27,10 @@ If you like it, do it:
 
 ## Screenshot
 
-![CoinsBag-Screenshot](https://github.com/adilbenmoussa/CoinsBag/blob/master/screenshots/screenshot1.png?raw=true)
-![CoinsBag-Screenshot](https://github.com/adilbenmoussa/CoinsBag/blob/master/screenshots/screenshot2.png?raw=true)
-![CoinsBag-Screenshot](https://github.com/adilbenmoussa/CoinsBag/blob/master/screenshots/screenshot3.png?raw=true)
-![CoinsBag-Screenshot](https://github.com/adilbenmoussa/CoinsBag/blob/master/screenshots/screenshot4.png?raw=true)
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot1.png" width="300">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot2.png" width="300">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot3.png" width="300">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot4.png" width="300">
 
 ## Contacs
 adil.benmoussa@gmail.com | https://twitter.com/adilbenmoussa
