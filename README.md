@@ -44,4 +44,4 @@ This app uses and extends the following libraries and icons:
 - [CryptoCurrencyKit](https://github.com/iCell/CryptoCurrencyKit)
 
 ## License
-[See MIT LICENSE](https://github.com/adilbenmoussa/MyCoinsTicker/blob/master/LICENSE) for more details.
+[See MIT LICENSE](https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/LICENSE) for more details.
