@@ -7,6 +7,7 @@
 ## Features 
 - Config you own coin holdings
 - Support for **ALL COINS** registered on [https://coinmarketcap.com/](https://coinmarketcap.com/)
+- iOS TodayWidget support 
 - Manual refresh
 
 ## Support Currency
@@ -27,10 +28,11 @@ If you like it, do it:
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot1.png" width="300">
-<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot2.png" width="300">
-<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot3.png" width="300">
-<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot4.png" width="300">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot1.png" width="240">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot5.png" width="240">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot2.png" width="240">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot3.png" width="240">
+<img src="https://raw.githubusercontent.com/adilbenmoussa/CoinsBag/master/screenshots/screenshot4.png" width="240">
 
 ## Contacs
 adil.benmoussa@gmail.com | https://twitter.com/adilbenmoussa
