@@ -2,7 +2,9 @@
  
 # CoinsBag!
  Calculates in real time your holding in coins based on the markt value of the coins at **coinmarketcap.com**
-
+ 
+## Applink!
+ https://itunes.apple.com/app/id1354934591?mt=8
 
 ## Features 
 - Config you own coin holdings
